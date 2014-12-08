@@ -1,6 +1,6 @@
 morpheus
 ========
-morpheus is a horribly complex development pattern for building line-of-business hypermedia webApis and clients of hypermedia webApis. If you understood that bit, don’t worry, it gets worse. It’s meant to be a generic, resource unaware system that allows for client developer exploration, resource machine discovery, and user interface load-out. It’s fricken’ cool and some developers have left the project in fear we have started Skynet. This is a development project by the ServiceMonster.net team for use in their webApi FIRST platform initiative.
+morpheus is a horribly complex development pattern for building line-of-business hypermedia webApis and clients of hypermedia webApis. If you understood that bit, don’t worry, it gets worse. It’s meant to be a generic, resource unaware system that allows for client developer exploration, machine based resource discovery and user interface view management and load-out. You could call it a repleacement of SOAP to get the general idea. This is a development project by the ServiceMonster team for use in our "webApi FIRST" development initiative.
 
 ###The morpheus pattern contains four important parts  
 [Requests](https://github.com/jskowalski/morpheus/tree/master/morpheus-requests)  

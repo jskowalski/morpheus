@@ -7,5 +7,5 @@ morpheus is a horribly complex development pattern for building line-of-business
 [javascript sdk: morpheus js](https://github.com/jskowalski/morpheus/tree/master/morpheus-js)  
 [Pattern: morpheus ui pattern](https://github.com/jskowalski/morpheus/tree/master/morpheus-ui)
 
-As this code will be readily available once we ServiceMonster6 is live; we are taking credit for it now. Enjoy. 
-Team ServiceMonster
+As this code will be readily available once we publish ServiceMonster6; we are taking credit for it now. Enjoy. 
+~Team ServiceMonster

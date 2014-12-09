@@ -8,13 +8,13 @@ Accept: A morpheus request WILL contain an Accept header with the value of appli
 ###Query Strings
 morpheus uses query strings with resource collections  
 
-q – A query value. The server will decide what the search actually means.  
-limit – The number if records in a page of data.  
-pageIndex – The request page index  
-fields – The fields to return. If missing from the request the server should provide a default resource property list.  
-include – The child resources to include with the requested resource.  
-where – A more specific filtering method. The client can create complete predicates.  
-orderby – The order of the list or items.  
+**q** – A query value. The server will decide what the search actually means.  
+**limit** – The number if records in a page of data.  
+**pageIndex** – The request page index  
+**fields** – The fields to return. If missing from the request the server should provide a default resource property list.  
+**include** – The child resources to include with the requested resource.  
+**where** – A more specific filtering method. The client can create complete predicates.  
+**orderby** – The order of the list or items.  
 
 ###Examples  
 `/people?pageIndex=0&limit=10`  

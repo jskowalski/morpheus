@@ -25,7 +25,7 @@ Gets the first 10 people resource records and only returns the id, the first nam
 `/people?q=joe`  
 Gets the first page of people resources that the server somehow matches to the keyword “joe”.
 
-`/people?where=firstname=’joe’`  
+`/people?where=firstname%3d’joe’`  
 Gets the first page of people resources where the first name matches “joe”.  
 
 

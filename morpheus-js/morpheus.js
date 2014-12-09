@@ -1,7 +1,6 @@
 define(function (require) {
     var jQuery = require("jquery");
-    var utils = require('pfa/utils');
-
+    
     var promise = function () {
         var thenPointer = null;
         var errorPointer = null;

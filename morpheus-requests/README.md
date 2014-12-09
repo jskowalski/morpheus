@@ -6,7 +6,7 @@ A morpheus request is an HTTP request which can contain a number of header value
 Accept: A morpheus request WILL contain an Accept header with the value of application/morpheus
 
 ###Query Strings
-morpheus uses query strings with resource collections  
+morpheus uses query strings with resource collections and MAY contain the following query string values.
 
 **q** – A query value. The server will decide what the search actually means.  
 **limit** – The number if records in a page of data.  

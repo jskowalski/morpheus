@@ -1,6 +1,8 @@
 morpheus.js
 ========
 
-`var query = morpheus.resourceQuery(args).from(resourceName);`  
-`return resourceManager.execute(query);`
+`var query = morpheus.resourceQuery().from('people');`  
+`resourceManager.execute(query).then(function(){
 
+});`
+Returns a lits of perople resources

@@ -15,7 +15,7 @@ Send a command
 `var command = new resourceCommand();`  
 `command.resource = 'people';`  
 `command.method = 'POST';`  
-`command.body = '{}';`  
+`command.body = {firstname:'joe',lastname:'kowalski'};`  
 `resourceManager.execute(command).then(function(response){`  
         `//do stuff with the response data`  
 `});`  

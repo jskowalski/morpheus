@@ -20,7 +20,7 @@ orderby – The order of the list or items.
 `/people?pageIndex=0&limit=10`  
 Gets the first 10 people resource records  
 
-`/people?fields= personID,firstName,lastName &pageIndex=0&limit=10`  
+`/people?fields= personID,firstName,lastName&pageIndex=0&limit=10`  
 Gets the first 10 people resource records and only returns the id, the first name and the last name.
 
 `/people?q=joe`  
